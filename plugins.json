@@ -3,6 +3,6 @@
   "description": "A collection of cool animations and cartoons",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/FlorinTheLegend/Desene-Faine/main/plugins.json"
+    "https://raw.githubusercontent.com/FlorinTheLegend/DeseneFaine/main/plugins.json"
   ]
 }
