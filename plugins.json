@@ -1,0 +1,8 @@
+{
+  "name": "Desene-Faine",
+  "description": "A collection of cool animations and cartoons",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/FlorinTheLegend/Desene-Faine/main/plugins.json"
+  ]
+}
