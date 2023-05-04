@@ -1,0 +1,19 @@
+ {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=anitube.in.ua&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/FlorinTheLegend/DeseneFaine",
+        "fileSize": 26911,
+        "status": 3,
+        "language": "ro",
+        "authors": [
+            "mihai"
+        ],
+        "tvTypes": [
+            "cartoons"
+        ],
+        "version": 4,
+        "internalName": "DeseneFaine",
+        "description": "\u041d\u0430 \u043d\u0430\u0448\u043e\u043c\u0443 \u0441\u0430\u0439\u0442\u0456 \u0432\u0438 \u043c\u043e\u0436\u0435\u0442\u0435 \u043f\u043e\u0434\u0438\u0432\u0438\u0442\u0438\u0441\u044f \u0430\u043d\u0456\u043c\u0435 \u043e\u043d\u043b\u0430\u0439\u043d \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u044e \u0431\u0435\u0437\u043a\u043e\u0448\u0442\u043e\u0432\u043d\u043e. \u0412\u0435\u043b\u0438\u043a\u0438\u0439 \u0441\u043f\u0438\u0441\u043e\u043a \u0430\u043d\u0456\u043c\u0435 \u043e\u043d\u043b\u0430\u0439\u043d \u0442\u0456\u043b\u044c\u043a\u0438 \u0443 \u043d\u0430\u0441.",
+        "url": "https://raw.githubusercontent.com/CakesTwix/cloudstream-extensions-uk/builds/AnitubeinuaProvider.cs3",
+        "name": "DeseneFaine"
+    },
